@@ -1,4 +1,4 @@
-package com.sds.buysell.payload;
+package com.sds.fury.payload;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

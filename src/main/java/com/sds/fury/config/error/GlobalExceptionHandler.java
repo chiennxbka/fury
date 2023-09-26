@@ -1,4 +1,4 @@
-package com.sds.buysell.config.error;
+package com.sds.fury.config.error;
 
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;

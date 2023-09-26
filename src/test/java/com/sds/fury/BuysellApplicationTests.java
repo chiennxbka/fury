@@ -1,4 +1,4 @@
-package com.sds.buysell;
+package com.sds.fury;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

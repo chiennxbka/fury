@@ -1,7 +1,7 @@
-package com.sds.buysell.service;
+package com.sds.fury.service;
 
-import com.sds.buysell.model.LoginResponse;
-import com.sds.buysell.payload.LoginRequest;
+import com.sds.fury.model.LoginResponse;
+import com.sds.fury.payload.LoginRequest;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.MediaType;
@@ -12,8 +12,6 @@ import org.springframework.util.MultiValueMap;
 import org.springframework.web.reactive.function.BodyInserters;
 import org.springframework.web.reactive.function.client.WebClient;
 import org.springframework.web.reactive.function.client.WebClientResponseException;
-
-import java.net.URI;
 
 @Service
 @RequiredArgsConstructor

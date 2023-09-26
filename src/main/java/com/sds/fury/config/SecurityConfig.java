@@ -1,4 +1,4 @@
-package com.sds.buysell.config;
+package com.sds.fury.config;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Value;

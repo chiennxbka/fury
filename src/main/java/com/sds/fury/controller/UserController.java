@@ -1,4 +1,4 @@
-package com.sds.buysell.controller;
+package com.sds.fury.controller;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;

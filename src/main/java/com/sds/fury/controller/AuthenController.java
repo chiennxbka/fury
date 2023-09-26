@@ -1,8 +1,8 @@
-package com.sds.buysell.controller;
+package com.sds.fury.controller;
 
-import com.sds.buysell.model.LoginResponse;
-import com.sds.buysell.payload.LoginRequest;
-import com.sds.buysell.service.KeyCloakService;
+import com.sds.fury.model.LoginResponse;
+import com.sds.fury.payload.LoginRequest;
+import com.sds.fury.service.KeyCloakService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;

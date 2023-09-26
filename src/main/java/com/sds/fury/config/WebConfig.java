@@ -1,4 +1,4 @@
-package com.sds.buysell.config;
+package com.sds.fury.config;
 
 import io.netty.channel.ChannelOption;
 import io.netty.handler.timeout.ReadTimeoutHandler;

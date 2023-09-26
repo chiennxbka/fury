@@ -1,4 +1,4 @@
-package com.sds.buysell.config;
+package com.sds.fury.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.core.convert.converter.Converter;

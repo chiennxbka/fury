@@ -1,4 +1,4 @@
-package com.sds.buysell.config;
+package com.sds.fury.config;
 
 import java.util.Collections;
 import java.util.List;
