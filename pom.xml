@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.sds</groupId>
-	<artifactId>buysell</artifactId>
+	<artifactId>fury</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>buysell</name>
-	<description>Buysell project spring boot</description>
+	<name>fury</name>
+	<description>Fury project spring boot</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
